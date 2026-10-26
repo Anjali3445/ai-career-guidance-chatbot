@@ -1,3 +1,33 @@
+# CareerBuddy – AI Career Guidance Chatbot
+
+An AI-powered career guidance chatbot built using Python, Streamlit, and Google Gemini API.
+
+## Live Demo
+
+🚀 https://careerbuddy-ai-guidance.streamlit.app/
+
+## Features
+
+* Personalized Career Recommendations
+* Skill Gap Analysis
+* Learning Resources
+* 90-Day Learning Plan
+* Resume Analyzer
+* Mock Interview
+* AI Mentor Chat
+* Hindi and English Support
+
+## Tech Stack
+
+* Python
+* Streamlit
+* Google Gemini API
+
+## Developer
+
+Anjali Prajapati
+
+GitHub: https://github.com/Anjali3445
 # AI-Powered Career Guidance Chatbot
 
 Suggests career paths, skill gaps, learning resources and a 90-day plan from a user's profile,
